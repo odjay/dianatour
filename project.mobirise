@@ -50,15 +50,15 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/jeep.ico",
-    "mbrsiteDomain": "lpse8u5jbj",
+    "mbrsiteDomain": "n3dwvd3sye",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://dianetour.com/",
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
-    "htmltag": "undefined"
+    "htmltag": "<html>"
   },
   "pages": {
     "index.html": {
